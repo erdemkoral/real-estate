@@ -1,6 +1,9 @@
 {
   "name": "real-estate",
   "version": "1.0.0",
+  "engines": {
+    "node": "8.6.0"
+  },
   "description": "real estate web app project",
   "main": "server.js",
   "scripts": {
