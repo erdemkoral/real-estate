@@ -5,7 +5,7 @@
     "node": "8.6.0"
   },
   "description": "real estate web app project",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "lint": "eslint .",
     "mocha": "mocha --recursive",
